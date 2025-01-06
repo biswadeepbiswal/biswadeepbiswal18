@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/biswadeepbiswal" target="blank"><img src="https://img.shields.io/twitter/follow/biswadeepbiswal?logo=twitter&style=for-the-badge" alt="biswadeepbiswal" /></a> </p>
 
-- 🌱 I’m currently learning **Django,Python,SQL,html,css,bootstrap**
+- 🌱 I’m currently learning **Django,Python,SQL,html,css,**
 
 - 💬 Ask me about **Django,Python,SQL,bootstrap**
 
